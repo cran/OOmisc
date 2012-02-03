@@ -1,4 +1,4 @@
-5e3506fb18238c0bc1a3bed0de05ddd9 *DESCRIPTION
+5bed601a83ea9830adbafde20a912580 *DESCRIPTION
 19d4cb32ab4347a0b524a36528aeacb1 *NAMESPACE
 43958a5ffd65fff75ccde4ecd7cd92fb *R/accept.reject.R
 578be862a420e831ac11daa1ce8dabcc *R/ci.prop.R
@@ -13,7 +13,7 @@ e378a1e286dc91113199a4f637a11412 *R/rtriangular.R
 9b0cfebf8c338602eb471470919d269b *R/secant.R
 261af73416fd98669b53583be2a34da2 *R/sevennum.R
 a1879ba9e964a7447d603fac766cd95c *inst/CITATION
-6cc400a6371f393928db18b4438a3b01 *man/OOmisc.Rd
+02f22b294daa61942381b7fda96fef84 *man/OOmisc.Rd
 4f177c20f66ad4e41b3cade3350771f4 *man/accept.reject.Rd
 f38226b07814e3a616c9824a45190aa3 *man/ci.prop.Rd
 edfbe78915cfbd327d04609df3b34968 *man/damped.newton.Rd

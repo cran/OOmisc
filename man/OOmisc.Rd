@@ -11,8 +11,8 @@ Includes miscellaneous functions. The package includes several functions with di
 \details{
 \tabular{ll}{
 Package: \tab OOmisc \cr
-Version: \tab 1.0 \cr
-Date: \tab 2012-08-02 \cr
+Version: \tab 1.2 \cr
+Date: \tab 2012-02-03 \cr
 License: \tab GPL (>=2) \cr
 }
 }
