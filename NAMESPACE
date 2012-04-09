@@ -1,0 +1,13 @@
+importFrom(graphics, plot)
+importFrom(graphics, lines)
+importFrom(graphics, abline)
+importFrom(stats, rnorm)
+export(accept.reject, 
+ci.prop, 
+damped.newton, 
+fact,
+newton, 
+rlaplace, 
+rtriangular, 
+secant, 
+sevennum)

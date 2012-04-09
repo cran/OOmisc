@@ -1,0 +1,28 @@
+citHeader("To cite the OOmisc package in publications use:")
+
+citEntry(entry="Manual",
+         title = "OOmisc: Ozgur-Ozlem Miscellaneous",
+         author = personList(as.person("Ozgur Asar"),as.person("Ozlem Ilk")),
+         month="04",
+         year="2012",
+         note="R package version 1.0",
+         textVersion = "Ozgur Asar and Ozlem Ilk (2012). OOmisc: Ozgur-Ozlem Miscellaneous. R package version
+  1.0."
+         )
+
+citEntry(entry = "Book",
+  title        = "R Yazilimina Giris [Introduction to R Language]",
+  author       = personList(as.person("Ozlem Ilk")),
+  year         = "2011",
+  publisher    = "ODTU Yayincilik [METU Press]",
+  address      = "Ankara",
+  url          = "http://www.metu.edu.tr/~oilk/Rgiris.html",
+
+  textVersion  =
+  paste("Ozlem Ilk (2011).",
+        "R Yazilimina Giris [Introduction to R Language].",
+        "ODTU Yayincilik [METU Press]: Ankara.",
+        "http://www.metu.edu.tr/~oilk/Rgiris.html")
+)
+
+
