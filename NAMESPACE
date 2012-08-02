@@ -2,11 +2,16 @@ importFrom(graphics, plot)
 importFrom(graphics, lines)
 importFrom(graphics, abline)
 importFrom(stats, rnorm)
+importFrom(stats, runif)
+importFrom(stats, rbinom)
 export(accept.reject, 
 ci.prop, 
 damped.newton, 
+ePCP,
+expit,
 fact,
 newton, 
+nll,
 rlaplace, 
 rtriangular, 
 secant, 

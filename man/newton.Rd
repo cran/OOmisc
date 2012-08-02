@@ -5,10 +5,10 @@
 A function to find the roots of univariate functions. 
 }
 \description{
-Finds roots of univariate functions by the usual Newton-Raphson method.
+Finds roots of univariate functions by the usual Newton-Raphson (N-R) method.
 }
 \usage{
-newton(fun, derf, x0, eps, maxit = 20, silent = TRUE)
+newton(fun, derf, x0, eps, maxit = 20, silent = TRUE, tun=1)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
@@ -30,10 +30,13 @@ a numeric value which denotes maximum number of iterations to be consumed.
   \item{silent}{
 a logical statement which decides whether the iterations should be printed.
 }
+  \item{tun}{
+a numeric value to decrease the steps
 }
-%\details{
-%%  ~~ If necessary, more details than the description above ~~
-%}
+}
+\details{
+\code{tun} is used to decrease the N-R steps, since it sometimes might miss the root value by taking large steps. \code{tun=1} corresponds to usual N-R.
+}
 \value{
 Returns a numeric result of the root.
 }

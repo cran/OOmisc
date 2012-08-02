@@ -3,17 +3,17 @@
 \alias{OOmisc}
 \docType{package}
 \title{
-Includes miscellaneous functions
+Ozgur-Ozlem Miscellaneous
 }
 \description{
-The package includes several functions with different goals such as generating random numbers, root finding, the calculation of summary statistics etc.
+Includes miscellaneous functions. The package includes several functions with different goals such as random numer generation, numerical root finding, the calculation of accuracy measures and summary statistics etc.
 }
 \details{
 \tabular{ll}{
- Package: \tab OOmisc\cr
-Version: \tab 1.0\cr
-Date: \tab 2012-04-09\cr
-License: \tab GPL (>=2)\cr
+Package: \tab OOmisc \cr
+Version: \tab 1.0 \cr
+Date: \tab 2012-08-02 \cr
+License: \tab GPL (>=2) \cr
 }
 }
 
